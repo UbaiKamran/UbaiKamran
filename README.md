@@ -32,7 +32,7 @@
 ## 📫 Let’s Connect
 📧 ubaikamran186@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/ubaikamran) |
-  [GitHub](https://github.com/ubaikamran)
+  [GitHub](https://github.com/ubaikamran)|
   [Personal-Portfolio](https://clinquant-ganache-f67cf1.netlify.app/)
 
 ---
