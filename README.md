@@ -31,7 +31,7 @@
 
 ## 📫 Let’s Connect
 📧 ubaikamran186@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/ubaikamran) |
+🔗 [LinkedIn](https://www.linkedin.com/in/ubai-kamran-829583345)|
   [GitHub](https://github.com/ubaikamran)|
   [Personal-Portfolio](https://clinquant-ganache-f67cf1.netlify.app/)
 
