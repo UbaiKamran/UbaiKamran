@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Ubai Kamran
+# This is Ubai Kamran
 
 🎓 AI Student @UET Lahore  
  Future AI Engineer | Writing smarter code, one commit at a time  
