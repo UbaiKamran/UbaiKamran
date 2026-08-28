@@ -18,6 +18,6 @@ I'm currently working on:<br>UET Guidance — a RAG-based chatbot that answers q
 📧 ubaikamran186@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/ubai-kamran-829583345)|
   [GitHub](https://github.com/ubaikamran)|
-  [Personal-Portfolio](ubai-portfollio.vercel.app/)
+  [Personal-Portfolio](https://ubai-portfollio.vercel.app/)
 
 ---
